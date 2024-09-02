@@ -19,19 +19,18 @@ EIN and NAME
 
 #### Model Compilation, Training, and Evaluation
 
-Layers and Neurons:
-Input Layer: Based on the number of input features.
-Hidden Layers:
-First hidden layer: 160 neurons with ReLU activation.
-Second hidden layer: 60 neurons with ReLU activation.
-Third hidden layer: 30 neurons with ReLU activation.
-Output Layer: 1 neuron with sigmoid activation for binary classification.
-Activation Functions:
-ReLU for hidden layers
-Sigmoid for the output layer to predict probabilities between 0 and 1.
-Performance:
-
-The model achieved an accuracy of 72.99%. 
+- Layers and Neurons:
+- Input Layer: Based on the number of input features.
+- Hidden Layers:
+- First hidden layer: 160 neurons with ReLU activation.
+- Second hidden layer: 60 neurons with ReLU activation.
+- Third hidden layer: 30 neurons with ReLU activation.
+- Output Layer: 1 neuron with sigmoid activation for binary classification.
+- Activation Functions:
+- ReLU for hidden layers
+- Sigmoid for the output layer to predict probabilities between 0 and 1.
+- Performance:
+- The model achieved an accuracy of 72.99%. 
 
 #### Steps Taken to Improve Performance:
 
