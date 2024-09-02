@@ -1,5 +1,5 @@
 # deep-learning-challenge
-Deep Learning Model Analysis for Alphabet Soup
+##Deep Learning Model Analysis for Alphabet Soup
 Overview
 The purpose of this analysis was to develop a deep learning model to predict the success of funding applications for Alphabet Soup, a hypothetical non-profit organization. By leveraging historical data on various features related to funding requests, the goal was to build a neural network that could classify whether an application would be successful or not. This predictive capability would allow Alphabet Soup to better allocate resources and make data-driven decisions in their grant-giving processes.
 
